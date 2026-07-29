@@ -1,0 +1,10 @@
+author = 'Lee Kwang Chin'
+baseURL = 'https://easestroop.echin.net/'
+copyright = 'Copyright © 2026 eChin Network. All rights reserved.'
+languageCode = 'en-us'
+title = 'EaseStroop'
+theme = 'paper'
+
+# Allow the raw HTML used on the home page (App Store badge + screenshot row).
+[markup.goldmark.renderer]
+unsafe = true
