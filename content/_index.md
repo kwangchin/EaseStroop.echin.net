@@ -22,6 +22,33 @@ Run a session in under two minutes. Track your **Stroop Score** — a composite 
 
 ---
 
+## Version 1.1
+
+#### Added features:
+- Sessions:
+    - Pause anytime with the close button, then resume or end the session
+    - Sessions pause automatically when you leave the app, so interruptions no longer count as missed trials
+    - Play Again button on the results screen to repeat a session with the same settings
+- Results:
+    - Accuracy and reaction time for each trial type in mixed sessions
+    - Interference Index on the results screen — Pro
+- Settings:
+    - App version and build number shown in Settings
+
+#### Improvements:
+- Reaction time is recorded the moment you touch a button, not when you lift your finger
+- Mixed sessions are tracked separately from single-type sessions for personal bests and achievements
+- Difficulty, trial type, and session labels are now fully translated in all 10 languages
+- Streak label uses the correct singular or plural form
+
+#### Bug fixes:
+- Fixed a fast double-tap occasionally being counted as two answers
+- Fixed a session continuing to run in the background after being closed
+- Matching your personal best no longer shows as a new personal best
+- Pro status now refreshes when you return to the app and when a session starts
+
+---
+
 ## Version 1.0
 
 ### First release!
